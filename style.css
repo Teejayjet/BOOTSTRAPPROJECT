@@ -1,0 +1,22 @@
+.africanf1{
+    font-family: "Dancing Script", cursive;
+}
+
+.gif1{
+    height: 200px;
+    width:300px
+}
+
+.flep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+ 
+}
+
+.your{
+        display: block;
+        border: 10px solid rgba(255, 162, 0, 0.31);
+}
